@@ -51,7 +51,7 @@
 <body>
 
 <header>
-    <img src=(https://e0.pxfuel.com/wallpapers/736/66/desktop-wallpaper-icarus-art-drawing.jpg)alt="Descripción de la imagen">
+    <img src=https://svgsilh.com/svg/1740459.svg alt="Descripción de la imagen">
     <h1>¡Mi Página Web Cristian!</h1>
 </header>
 
