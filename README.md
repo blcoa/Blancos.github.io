@@ -51,7 +51,7 @@
 <body>
 
 <header>
-    <img src="https://via.placeholder.com/150" alt="Descripción de la imagen">
+    <img src=F:\Index.html alt="Descripción de la imagen">
     <h1>¡Mi Página Web Cristian!</h1>
 </header>
 
